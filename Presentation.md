@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raylpz
+- 👋 Hi, I’m @rayane-lopes
 - 👀 I’m interested in Java, reading books and workout.
 - 🌱 I’m currently learning Java and AWS.
 - 📫 How to reach me [...](https://www.linkedin.com/in/rayane-lopes-890862180/)
