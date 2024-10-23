@@ -19,15 +19,6 @@ I'm currently working at F1rst Digital Services (the technology department of Ba
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## Some Repositories
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rayane-lopes&repo=Buscador_CEP&bg_color=000&border_color=FFF521&show_icons=true&icon_color=EDEDEDFF&title_color=FFF521&text_color=EDEDEDFF)](https://github.com/rayane-lopes/Buscador_CEP)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rayane-lopes&repo=Conta-bancaria&bg_color=000&border_color=FFF521&show_icons=true&icon_color=EDEDEDFF&title_color=FFF521&text_color=EDEDEDFF)](https://github.com/rayane-lopes/Conta-bancaria)
-
-## More
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayane-lopes&theme=transparent&bg_color=000&border_color=FFF521&show_icons=true&icon_color=FFF521&title_color=FFF521&text_color=EDEDEDFF)
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF521)](https://www.linkedin.com/in/rayane-lopes-890862180/)
