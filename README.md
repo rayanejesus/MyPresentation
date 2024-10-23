@@ -23,6 +23,4 @@ I'm currently working at F1rst Digital Services (the technology department of Ba
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF521)](https://www.linkedin.com/in/rayane-jesus-890862180/)
 
-[![LinkedIn](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=FFF521)](https://www.discord.com/in/rayane-lopes/)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCCCCCFF87CEFA&height=120&section=footer"/>
